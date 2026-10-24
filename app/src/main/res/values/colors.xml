@@ -1,0 +1,4 @@
+<resources>
+    <!-- Behind the logo in the app icon -->
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>
